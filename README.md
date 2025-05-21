@@ -234,65 +234,47 @@ Handles:
 
 - Swagger UI interface
 
+![image](https://github.com/user-attachments/assets/ece400d3-2770-4b77-8082-c04748f30e4d)
 
-  ![image](https://github.com/user-attachments/assets/549bafe0-f87f-4d2a-b447-adaf1f6056d0")
+![image](https://github.com/user-attachments/assets/b51a8695-ae9d-481f-9427-27e471921ad2)
 
-
-
-  ![image](https://github.com/user-attachments/assets/8b5eca0c-599b-4a14-82fe-5a3df5a8f6de)
 
 - Sample request/response with custom HTML interface for testing
+### Create Account
 
+![image](https://github.com/user-attachments/assets/c1d95749-3aec-4877-84eb-4be8501d686f)
 
-  ![image](https://github.com/user-attachments/assets/bdfc7c79-d3c5-4ee7-82d0-fec446255efd)
+![image](https://github.com/user-attachments/assets/c75aca63-151d-4c7f-839e-bf245179c550)
 
+### Get Account Details
 
-  ![image](https://github.com/user-attachments/assets/4f313cd1-0445-4524-a3ae-ee6699732c2f)
+![image](https://github.com/user-attachments/assets/8a90adf7-ad06-4ffd-a0ef-f70d415fca8f)
+
+![image](https://github.com/user-attachments/assets/c4616d23-4243-43da-9598-a4e700d82d20)
+
 
 
 If initial balance is not given, it takes 0 by default.
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/44c30687-3833-4893-9ba3-59f869bf2b7c" alt="Image 2" width="100%"/>
-</div>
+![image](https://github.com/user-attachments/assets/756c829c-1d98-4c32-b9a7-4002d84e315d)
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/a9de939f-cef2-4a56-a74e-89cf813e4178" alt="Image 3" width="100%"/>
-</div>
+![image](https://github.com/user-attachments/assets/60360454-ac28-4e8a-9e81-e8239506897c)
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/cec23574-c818-4e33-9de7-bbe613331889" alt="Image 4" width="100%"/>
-</div>
+---
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/15d52c33-8ed2-4349-882e-e982967ed015" alt="Image 6" width="100%"/>
-</div>
+### Transfer Funds
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/8f849d63-132d-4d71-ae9d-4f1cbc64fe17" alt="Image 5" width="100%"/>
-</div>
+![image](https://github.com/user-attachments/assets/7fa0c87f-fad1-446c-8b0d-b2ea9d1e19ed)
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/63998ec3-93d8-40ad-8708-47a6964458f8" alt="Image 7" width="100%"/>
-</div>
+![image](https://github.com/user-attachments/assets/872988a4-64b6-4d50-a4cf-359e033e701d)
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/0f07f00c-011e-4a02-82b3-29d829c1710e" alt="Image 8" width="100%"/>
-</div>
+![image](https://github.com/user-attachments/assets/368e7b95-c8d6-443a-9e64-aa4ed9eeddb8)
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/56dbd5d8-8721-4b41-b38e-d12ebf0595e3" alt="Image 9" width="100%"/>
-</div>
+### Get Transaction History
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/56131b1f-f7d9-4b38-815e-25618f9615bd" alt="Image 11" width="100%"/>
-</div>
+![image](https://github.com/user-attachments/assets/1f2fcdec-c0f4-493e-a18c-7f94f5de1bfb)
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/34f42894-257c-4f36-b4af-7941f6d8f8e7" alt="Image 10" width="100%"/>
-</div>
-
-
+![image](https://github.com/user-attachments/assets/453536e4-a14b-46d7-91ea-28f5f57baffd)
 
 
 ---
