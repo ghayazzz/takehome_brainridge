@@ -234,23 +234,21 @@ Handles:
 
 - Swagger UI interface
 
-<div style="width: 350px;">
-  <img src="https://github.com/user-attachments/assets/549bafe0-f87f-4d2a-b447-adaf1f6056d0" alt="Swagger UI 1" width="100%"/>
-</div>
 
-<div style="width: 350px; margin-top: 10px;">
-  <img src="https://github.com/user-attachments/assets/8b5eca0c-599b-4a14-82fe-5a3df5a8f6de" alt="Swagger UI 2" width="100%"/>
-</div>
+  ![image](https://github.com/user-attachments/assets/549bafe0-f87f-4d2a-b447-adaf1f6056d0")
+
+
+
+  ![image](https://github.com/user-attachments/assets/8b5eca0c-599b-4a14-82fe-5a3df5a8f6de)
 
 - Sample request/response with custom HTML interface for testing
 
-<div style="width: 350px;">
-  <img src="https://github.com/user-attachments/assets/bdfc7c79-d3c5-4ee7-82d0-fec446255efd" alt="Image 1" width="100%"/>
-</div>
 
-<div style="width: 350px;">
-  <img src="https://github.com/user-attachments/assets/4f313cd1-0445-4524-a3ae-ee6699732c2f" alt="Image 1" width="100%"/>
-</div>
+  ![image](https://github.com/user-attachments/assets/bdfc7c79-d3c5-4ee7-82d0-fec446255efd)
+
+
+  ![image](https://github.com/user-attachments/assets/4f313cd1-0445-4524-a3ae-ee6699732c2f)
+
 
 If initial balance is not given, it takes 0 by default.
 
