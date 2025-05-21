@@ -276,6 +276,18 @@ If initial balance is not given, it takes 0 by default.
 
 ![image](https://github.com/user-attachments/assets/453536e4-a14b-46d7-91ea-28f5f57baffd)
 
+### Insufficient Funds
+
+![image](https://github.com/user-attachments/assets/a9090919-d2e6-4918-9a7e-aee29811514a)
+
+### Same Account Error
+
+![image](https://github.com/user-attachments/assets/1df2c569-d682-41fb-a27e-3d742481f2e9)
+
+### Account Doesn't Exist
+
+![image](https://github.com/user-attachments/assets/70bf1d4f-0288-4e82-b615-4e0b31c0298f)
+
 
 ---
 
